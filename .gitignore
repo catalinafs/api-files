@@ -24,8 +24,8 @@ yarn-error.log*
 # local env files
 # .env*.local
 # ! comentar antes de enviar
-.env.*
-.env
+# .env.*
+# .env
 
 # vercel
 .vercel
